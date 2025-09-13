@@ -10,7 +10,6 @@
 - `plots/` — AC sweep and comparative PNGs
 - `images/` — schematic & screenshots
 - `BOM.txt` — bill of materials
-- `notes.md` (optional) — lessons & next steps
 
 ## Quick usage
 1. Open `Baxandall.asc` in LTSpice.
