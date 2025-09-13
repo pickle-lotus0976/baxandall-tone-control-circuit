@@ -1,0 +1,28 @@
+# LTSpice / electronics temp files
+*.raw
+*.raw.~*
+*.log
+*.op
+*.bak
+*.net
+*.plt
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Node / general (not needed but harmless)
+node_modules/
+
+# Large files (don't commit raw data)
+*.zip
+*.tar
+*.7z
+*.exe
+*.dll
+EOF

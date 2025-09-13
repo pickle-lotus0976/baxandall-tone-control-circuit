@@ -1,0 +1,10 @@
+# BOM
+R1 10k
+R4 1k
+R5 10k
+C2 22nF
+C3 220nF
+C4 2.2nF
+C5 22nF
+R8 50k (output pot)
+EOF
