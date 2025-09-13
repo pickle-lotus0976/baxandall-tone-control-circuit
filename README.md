@@ -18,7 +18,6 @@
 3. Inspect `V(output)` in the waveform viewer or re-run pot extreme sweeps for clean comparative curves.
 
 ## Next steps
-- Perfboard build & measured FR
 - Improve layout and re-test with measured data
 
 License: MIT (see LICENSE)
