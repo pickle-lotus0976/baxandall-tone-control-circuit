@@ -21,4 +21,3 @@
 - Improve layout and re-test with measured data
 
 License: MIT (see LICENSE)
-EOF
