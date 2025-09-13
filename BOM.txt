@@ -7,4 +7,3 @@ C3 220nF
 C4 2.2nF
 C5 22nF
 R8 50k (output pot)
-EOF
